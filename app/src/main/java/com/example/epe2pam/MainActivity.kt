@@ -8,7 +8,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity(){
-    private val usuarioCorrecto = "admin"
+    private val usuarioCorrecto = "Yonathan"
     private val passwordCorrecto = "1234"
 
     override fun onCreate(savedInstanceState: Bundle?) {
